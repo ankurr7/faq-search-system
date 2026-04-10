@@ -1,18 +1,32 @@
 [
-  {
-    "question": "what is tf idf",
-    "answer": "TF-IDF means term importance in documents"
-  },
-  {
-    "question": "what is information retrieval",
-    "answer": "It is finding useful data from large data"
-  },
-  {
-    "question": "what is pagerank",
-    "answer": "Pagerank ranks web pages"
-  },
-  {
-    "question": "what is nlp",
-    "answer": "NLP is processing human language"
-  }
+  {"question": "What is computer?", "answer": "A computer is an electronic device that processes data."},
+  {"question": "What is internet?", "answer": "Internet is a global network connecting millions of computers."},
+  {"question": "What is programming?", "answer": "Programming is the process of writing instructions for a computer."},
+  {"question": "What is software?", "answer": "Software is a set of programs that perform tasks."},
+  {"question": "What is hardware?", "answer": "Hardware refers to physical components of a computer."},
+  {"question": "What is operating system?", "answer": "Operating system manages computer hardware and software."},
+  {"question": "What is Windows?", "answer": "Windows is an operating system developed by Microsoft."},
+  {"question": "What is Linux?", "answer": "Linux is an open-source operating system."},
+  {"question": "What is HTML?", "answer": "HTML is used to create web pages."},
+  {"question": "What is CSS?", "answer": "CSS is used to style web pages."},
+  {"question": "What is JavaScript?", "answer": "JavaScript is used to make web pages interactive."},
+  {"question": "What is frontend development?", "answer": "Frontend development focuses on user interface."},
+  {"question": "What is backend development?", "answer": "Backend development handles server and database logic."},
+  {"question": "What is full stack development?", "answer": "Full stack development includes both frontend and backend."},
+  {"question": "What is algorithm?", "answer": "An algorithm is a step-by-step solution to a problem."},
+  {"question": "What is data structure?", "answer": "Data structure organizes and stores data efficiently."},
+  {"question": "What is array?", "answer": "Array is a collection of elements stored in sequence."},
+  {"question": "What is linked list?", "answer": "Linked list is a collection of nodes connected by pointers."},
+  {"question": "What is stack?", "answer": "Stack is a data structure that follows LIFO."},
+  {"question": "What is queue?", "answer": "Queue is a data structure that follows FIFO."},
+  {"question": "What is compiler?", "answer": "Compiler converts code into machine language."},
+  {"question": "What is interpreter?", "answer": "Interpreter executes code line by line."},
+  {"question": "What is debugging?", "answer": "Debugging is the process of fixing errors in code."},
+  {"question": "What is version control?", "answer": "Version control tracks changes in code over time."},
+  {"question": "What is GitHub?", "answer": "GitHub is a platform to store and manage code."},
+  {"question": "What is database management system?", "answer": "DBMS manages databases efficiently."},
+  {"question": "What is normalization?", "answer": "Normalization organizes data to reduce redundancy."},
+  {"question": "What is primary key?", "answer": "Primary key uniquely identifies a record in a table."},
+  {"question": "What is foreign key?", "answer": "Foreign key links two tables in a database."},
+  {"question": "What is cybersecurity?", "answer": "Cybersecurity protects systems from attacks."}
 ]
