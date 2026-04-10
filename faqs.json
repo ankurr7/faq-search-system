@@ -1,0 +1,18 @@
+[
+  {
+    "question": "what is tf idf",
+    "answer": "TF-IDF means term importance in documents"
+  },
+  {
+    "question": "what is information retrieval",
+    "answer": "It is finding useful data from large data"
+  },
+  {
+    "question": "what is pagerank",
+    "answer": "Pagerank ranks web pages"
+  },
+  {
+    "question": "what is nlp",
+    "answer": "NLP is processing human language"
+  }
+]
